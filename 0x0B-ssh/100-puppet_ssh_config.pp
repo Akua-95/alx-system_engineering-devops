@@ -10,4 +10,5 @@ content => "
              User ubuntu
              IdentityFile ~/.ssh/school
              PasswordAuthentication no
+	  ",
 }
